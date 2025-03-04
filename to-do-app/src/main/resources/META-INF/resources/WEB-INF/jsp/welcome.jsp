@@ -5,8 +5,10 @@
 		html
 	</head>
 	<body>
-		Welcome ${name}
-		<div><a href = "list-todos">Manage</a> your todos</div> 
+		<div class = "container">
+			Welcome ${name}
+			<div><a href = "list-todos">Manage</a> your todos</div>
+		</div> 
 	</body>
 </html>
 		
